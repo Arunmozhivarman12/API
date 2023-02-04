@@ -1,0 +1,62 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+label{
+  
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+
+.img1{
+  width: 31%;
+  height: 30%;
+  margin-top: 20px;
+  margin-bottom: 40px;
+ border-radius: 100px;
+}
+ 
+
+.box2{
+  width: 60% !important;
+}
+
+
+.box{
+  height: 420px;
+  width: 420px !important;
+ 
+}
+
+Button{
+  margin-top: 25px !important;
+}
+
+Button a {
+  color: white;
+  text-decoration: none;
+}
+
+Button a:hover{
+  color: white;
+}
+
+.Details{
+  width: 30% !important;
+}
+
+.comp{
+  margin-left: 30px;
+  width: 150px;
+  height: 155px;
+  border-radius: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+li{
+  list-style-type: none;
+}
+
